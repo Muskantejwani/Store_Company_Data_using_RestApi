@@ -1,0 +1,60 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Muskan",
+      "email": "muskan@gmail.com",
+      "phone": "12345678901",
+      "Address": "karachi",
+      "type": "MNC"
+    },
+    {
+      "id": 2,
+      "name": "PQR Corporation",
+      "email": "pqr@example.com",
+      "phone": "8787878787",
+      "Address": "no 5, 5th street,\nchennai,\nIndai",
+      "type": "MNC"
+    },
+    {
+      "id": 3,
+      "name": "Tech Innovators",
+      "email": "techinnovators@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 4,
+      "name": "Innovative Minds",
+      "email": "innovativeminds@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "Future Techies",
+      "email": "futuretechies@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 6,
+      "name": "Global Innovations",
+      "email": "globalinnovations@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 7,
+      "name": "XYZ Solutions",
+      "email": "xyz@example.com",
+      "phone": "79999999",
+      "Address": "1st street",
+      "type": "DOMESTIC"
+    }
+  ]
+}
